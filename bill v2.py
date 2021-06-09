@@ -143,4 +143,4 @@ async def kick(context, member: discord.Member):
     await context.send(embed = discord.Embed(description = 'User ' + member.display_name + ' has been kicked!', color=0xb22222))
     
 # run the client on the server
-client.run("NzYwNDgwMDU2NzkwNDgyOTQ0.X3MqPg.g1mJdz1gXpV_OzEKTOVySso-fRQ")
+client.run("Token")
