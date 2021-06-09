@@ -316,4 +316,4 @@ async def on_ready():
     await client.change_presence(activity = activity, status = discord.Status.do_not_disturb)
 
 # run the client on the s erver
-client.run("NzYwNDgwMDU2NzkwNDgyOTQ0.X3MqPg.g1mJdz1gXpV_OzEKTOVySso-fRQ")
+client.run("Token")
